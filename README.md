@@ -1,5 +1,5 @@
-# wallet_imtoken
-imtoken假钱包 仿照imtoken 区块链钱包
+# wallet_imtoken imtoken钱包
+# imtoken假钱包 仿照imtoken 区块链钱包
 
 ## 此系统代码是收费，不是开源。不支持白嫖，想白嫖的请绕道
 
